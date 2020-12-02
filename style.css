@@ -1,0 +1,43 @@
+h1 {
+    color:rgb(255, 0, 170) ;
+}
+
+* {
+    border: solid;
+    border-color: rgb(98, 0, 255)  ;
+}
+
+.header{
+    background-color:  rgb(40, 9, 219);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p{
+    text-align: center;
+    border-color: rgb(183, 24, 231);
+}
+p{
+    text-align: center;
+    border-color: rgb(231, 24, 203);
+}
+
+.menu{
+    display:flex;
+    background-color:rgb(13, 238, 238)
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:rgb(19, 226, 19);
+}
+.Origami_1:hover{
+    transform: scale(1.2);
+}
